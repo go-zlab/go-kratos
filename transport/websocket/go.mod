@@ -15,8 +15,8 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/stretchr/testify v1.11.1
 	github.com/tx7do/go-utils/id v0.0.4
-	github.com/go-zlab/go-kratos/broker v1.3.2
-	github.com/go-zlab/go-kratos/transport v1.3.3
+	github.com/go-zlab/go-kratos/broker v1.0.0
+	github.com/go-zlab/go-kratos/transport v1.0.0
 )
 
 require (
@@ -36,7 +36,7 @@ require (
 	github.com/segmentio/ksuid v1.0.4 // indirect
 	github.com/sony/sonyflake v1.3.0 // indirect
 	github.com/tx7do/go-utils v1.1.35 // indirect
-	github.com/go-zlab/go-kratos/tracing v1.1.1 // indirect
+	github.com/go-zlab/go-kratos/tracing v1.0.0 // indirect
 	go.mongodb.org/mongo-driver/v2 v2.5.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.43.0 // indirect

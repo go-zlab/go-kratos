@@ -14,9 +14,9 @@ replace (
 
 require (
 	github.com/go-kratos/kratos/v2 v2.9.2
-	github.com/go-zlab/go-mcp v0.43.2
+	github.com/go-zlab/go-mcp v1.0.0
 	github.com/stretchr/testify v1.11.1
-	github.com/go-zlab/go-kratos/transport/keepalive v1.3.3
+	github.com/go-zlab/go-kratos/transport/keepalive v1.0.0
 )
 
 require (
@@ -35,9 +35,9 @@ require (
 	github.com/openzipkin/zipkin-go v0.4.3 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/spf13/cast v1.10.0 // indirect
-	github.com/go-zlab/go-kratos/broker v1.3.2 // indirect
-	github.com/go-zlab/go-kratos/tracing v1.1.1 // indirect
-	github.com/go-zlab/go-kratos/transport v1.3.3 // indirect
+	github.com/go-zlab/go-kratos/broker v1.0.0 // indirect
+	github.com/go-zlab/go-kratos/tracing v1.0.0 // indirect
+	github.com/go-zlab/go-kratos/transport v1.0.0 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect

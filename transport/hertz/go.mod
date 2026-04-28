@@ -16,8 +16,8 @@ require (
 	github.com/cloudwego/hertz v0.10.4
 	github.com/go-kratos/kratos/v2 v2.9.2
 	github.com/stretchr/testify v1.11.1
-	github.com/go-zlab/go-kratos/testing v1.1.1
-	github.com/go-zlab/go-kratos/transport v1.3.3
+	github.com/go-zlab/go-kratos/testing v1.0.0
+	github.com/go-zlab/go-kratos/transport v1.0.0
 )
 
 require (
@@ -45,8 +45,8 @@ require (
 	github.com/tidwall/match v1.2.0 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
-	github.com/go-zlab/go-kratos/broker v1.3.2 // indirect
-	github.com/go-zlab/go-kratos/tracing v1.1.1 // indirect
+	github.com/go-zlab/go-kratos/broker v1.0.0 // indirect
+	github.com/go-zlab/go-kratos/tracing v1.0.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.39.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.39.0 // indirect

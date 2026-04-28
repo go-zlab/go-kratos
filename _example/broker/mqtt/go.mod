@@ -11,9 +11,9 @@ replace (
 
 require (
 	github.com/go-kratos/kratos/v2 v2.9.2
-	github.com/go-zlab/go-kratos/broker v1.3.2
-	github.com/go-zlab/go-kratos/broker/mqtt v1.3.2
-	github.com/go-zlab/go-kratos/testing v1.1.1
+	github.com/go-zlab/go-kratos/broker v1.0.0
+	github.com/go-zlab/go-kratos/broker/mqtt v1.0.0
+	github.com/go-zlab/go-kratos/testing v1.0.0
 )
 
 require (
@@ -26,7 +26,7 @@ require (
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.28.0 // indirect
 	github.com/openzipkin/zipkin-go v0.4.3 // indirect
-	github.com/go-zlab/go-kratos/tracing v1.1.1 // indirect
+	github.com/go-zlab/go-kratos/tracing v1.0.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/otel v1.43.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.43.0 // indirect

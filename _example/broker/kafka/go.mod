@@ -13,9 +13,9 @@ replace (
 
 require (
 	github.com/go-kratos/kratos/v2 v2.9.2
-	github.com/go-zlab/go-kratos/broker v1.3.2
-	github.com/go-zlab/go-kratos/broker/kafka v1.3.2
-	github.com/go-zlab/go-kratos/testing v1.1.1
+	github.com/go-zlab/go-kratos/broker v1.0.0
+	github.com/go-zlab/go-kratos/broker/kafka v1.0.0
+	github.com/go-zlab/go-kratos/testing v1.0.0
 )
 
 require (
@@ -29,7 +29,7 @@ require (
 	github.com/openzipkin/zipkin-go v0.4.3 // indirect
 	github.com/pierrec/lz4/v4 v4.1.25 // indirect
 	github.com/segmentio/kafka-go v0.4.50 // indirect
-	github.com/go-zlab/go-kratos/tracing v1.1.1 // indirect
+	github.com/go-zlab/go-kratos/tracing v1.0.0 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.2.0 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect

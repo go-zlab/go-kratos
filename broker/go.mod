@@ -11,7 +11,7 @@ replace (
 
 require (
 	github.com/go-kratos/kratos/v2 v2.9.2
-	github.com/go-zlab/go-kratos/tracing v1.1.1
+	github.com/go-zlab/go-kratos/tracing v1.0.0
 	go.opentelemetry.io/otel v1.39.0
 	go.opentelemetry.io/otel/trace v1.39.0
 )
